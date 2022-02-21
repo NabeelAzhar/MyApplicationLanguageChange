@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApplicationLanguageChange</string>
+    <string name="pakistan">पाकिस्तान</string>
+    <string name="islamabad">इस्लामाबाद</string>
+    <string name="punjab">पंजाब</string>
+    <string name="go_to_next">अगले पर जाएं</string>
+    <string name="lahore">लाहौर</string>
+    <string name="rawalpindi">रावलपिंडी</string>
+    <string name="kahuta">कटा</string>
+    <string name="change_language">भाषा बदलो</string>
+</resources>
